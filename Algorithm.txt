@@ -1,0 +1,11 @@
+﻿1. Start
+2. Change color to Green
+3. Say “Ready Set Go”
+4. Run until corner of long perimeter side
+5. Turn 90 degrees to the right
+6. Run until corner of short perimeter side
+7. Turn 90 degrees to the right
+8. Repeat steps 4 - 7 once more
+9. Change color to Red
+10. Say “ I’m done and I need water”
+11. End
